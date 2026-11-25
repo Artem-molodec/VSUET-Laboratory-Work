@@ -1,0 +1,6 @@
+[
+  {"id": 1, "title": "Посадить томаты", "category": "огород", "amount": 12, "completed": false},
+  {"id": 2, "title": "Посадить яблони", "category": "сад", "amount": 3, "completed": true},
+  {"id": 3, "title": "Посадить морковь", "category": "огород", "amount": 40, "completed": false},
+  {"id": 4, "title": "Посадить смородину", "category": "сад", "amount": 5, "completed": true}
+]
